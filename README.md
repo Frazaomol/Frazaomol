@@ -7,11 +7,14 @@ Não possuo esperiencia no desenvolvimento fullstack, mas isso não me impede �
 
 Toolkit
 
-01 · Machine Learning & IA	02 · Linguagens
-Show Image	Show Image
-PyTorch · TensorFlow · Scikit-learn · OpenCV	Python · Java
-Treinamento de modelos, análise de dados e reconhecimento de padrões.	Lógica de programação, estruturas de dados e orientação a objetos.
-03 · Dados	04 · Ferramentas & IDEs
-Show Image	Show Image
-SQL	IntelliJ IDEA · PyCharm · Visual Studio
-Consultas, modelagem e armazenamento de dados.	Ambientes de desenvolvimento, debugging e organização de projetos.
+| 01 · Machine Learning & IA | 02 · Linguagens |
+|---|---|
+| ![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&v=2) | ![Skills](https://skillicons.dev/icons?i=py,java&v=2) |
+| PyTorch · TensorFlow · Scikit-learn · OpenCV | Python · Java |
+| *Treinamento de modelos, análise de dados e reconhecimento de padrões.* | *Lógica de programação, estruturas de dados e orientação a objetos.* |
+
+| 03 · Dados | 04 · Ferramentas & IDEs |
+|---|---|
+| ![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge) | ![Skills](https://skillicons.dev/icons?i=idea,pycharm,visualstudio&v=2) |
+| SQL | IntelliJ IDEA · PyCharm · Visual Studio |
+| *Consultas, modelagem e armazenamento de dados.* | *Ambientes de desenvolvimento, debugging e organização de projetos.* |
